@@ -1,0 +1,7 @@
+C:\Users\ecast\Desktop\sogdental\obj\Debug\Empresa_SogDental.csprojAssemblyReference.cache
+C:\Users\ecast\Desktop\sogdental\obj\Debug\Empresa_SogDental.Borrar_Registro.resources
+C:\Users\ecast\Desktop\sogdental\obj\Debug\Empresa_SogDental.Form1.resources
+C:\Users\ecast\Desktop\sogdental\obj\Debug\Empresa_SogDental.FormularioPaciente.resources
+C:\Users\ecast\Desktop\sogdental\obj\Debug\Empresa_SogDental.InformacionPaciente.resources
+C:\Users\ecast\Desktop\sogdental\obj\Debug\Empresa_SogDental.Menu_Principal.resources
+C:\Users\ecast\Desktop\sogdental\obj\Debug\Empresa_SogDental.csproj.GenerateResource.cache

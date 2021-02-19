@@ -84,7 +84,7 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Image = global::Empresa_SogDental.Properties.Resources.SOG_DENTAL;
+            //this.pictureBox1.Image = global::Empresa_SogDental.Properties.Resources.SOG_DENTAL;
             this.pictureBox1.Location = new System.Drawing.Point(718, 56);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(114, 102);
@@ -299,7 +299,7 @@
             // pictureBox2
             // 
             this.pictureBox2.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.pictureBox2.Image = global::Empresa_SogDental.Properties.Resources._251011;
+            //this.pictureBox2.Image = global::Empresa_SogDental.Properties.Resources._251011;
             this.pictureBox2.Location = new System.Drawing.Point(0, 0);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(855, 569);
